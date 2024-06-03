@@ -1,0 +1,7 @@
+﻿Author,Title,Filter 3 reviewer ,Data Extractor ,Notes ,Date,N_concussion,N_controls,PSQI_control,PSQI_control_sd,PSQI_concussion,PSQI_concussion_sd,Mean Age in Controls (years),Mean Age in Concusssed (years),Sex: Male n( %) control,Sex: Male n( %) concussed,Sex:Female n( %) control,Sex: Female n( %) concussed,bias
+Gosselin,Sleep following sport-related concussions.,Anna,Anna,includes  3 athletes with concussions more than 6 months ago but less than 1 year ago,2008,10,11,3.5,2.3,7.7,3.8,22.6,24.3,0.6363,0.7,0.3637,0.3,4
+Bone,The Effects of Concussion on Quantity and Quality of Sleep in Football Athletes.,Eszti,Eszti,it might be a thesis?,2022,20,7,5.3,2.6,10.57,6.43,19.57,20.05,1,1,0,0,1
+Wilson,Adolescents report sleep quality impairments acutely postconcussion,Eszti,Eszti,I think this is good,2020,17,51,4.3,2.64,6.77,3.47,16,16,0.35,0.35,0.65,0.65,3
+Hoffman,Differences in sleep between concussed and nonconcussed college students: a matched case-control study.,Eszti,Eszti,I think this is perfect,2018,20,20,4.2,1.8,7.8,3,20.04,20,0.4,0.8,0.6,0.6,4
+Albicini,Ongoing daytime behavioural problems in university students following childhood mild traumatic brain injury,Eszti,Eszti,not necessarily within 6 months of injury but control definetely good,2016,47,197,5.85,2.73,6.34,3.61,20.45,20.36,0.421,0.18,0.553,0.617,2
+Schmidt,A Longitudinal Investigation of Sleep Quality in Adolescents and Young Adults After Mild Traumatic Brain Injury,Eszti,Eszti,looks perfect,2016,77,43,2.52,3.48,6.72,4,21,20.4,0.5814,0.6753,0.4186,0.3247,5
